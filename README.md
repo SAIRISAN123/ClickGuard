@@ -1,4 +1,5 @@
 # ClickGuard
+
 1. Semester Project.
 2. An Encrypted Emergency Alerting and Tracking prototype Device.\
 
