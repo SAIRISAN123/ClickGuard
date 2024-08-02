@@ -1,10 +1,10 @@
 # ClickGuard
-Semester Project.
-An Encrypted Emergency Alerting and Tracking prototype Device.
+1. Semester Project.
+2. An Encrypted Emergency Alerting and Tracking prototype Device.\
 
 # Application 
-Human Elephant conflict alerts.\
-Security Alerts
+1. Human Elephant conflict alerts.\
+2. Security Alerts
 
 
 
