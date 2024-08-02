@@ -1,4 +1,6 @@
 # ClickGuard
+![Alt text](https://github.com/SAIRISAN123/ClickGuard/blob/main/Combined.JPG)
+
 
 1. Semester Project.
 2. An Encrypted Emergency Alerting and Tracking prototype Device.\
