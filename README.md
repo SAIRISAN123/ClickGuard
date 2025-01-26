@@ -1,6 +1,6 @@
 # ClickGuard
 
-![Alt text](https://github.com/SAIRISAN123/ClickGuard/blob/main/Combined.JPG)
+![Alt text](https://github.com/SAIRISAN123/ClickGuard/blob/main/Images/Combined.JPG)
 
 
 # About
@@ -14,7 +14,7 @@
 
 # Cricuit Diagram
 
-![Alt text](https://github.com/SAIRISAN123/ClickGuard/blob/main/ClickGuard.png)
+![Alt text](https://github.com/SAIRISAN123/ClickGuard/blob/main/Images/ClickGuard.png)
 
 
 youtube - https://www.youtube.com/watch?v=KKkI2CPAiI0
